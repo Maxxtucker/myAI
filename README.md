@@ -5,4 +5,3 @@ This repo makes it easy to configure and deploy your own AI Assistant using Verc
 
 For documentation, contact Daniel Ringel and visit www.ringel.AI 
 
-‘’
